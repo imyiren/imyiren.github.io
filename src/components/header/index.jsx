@@ -12,7 +12,7 @@ const languageSwitch = [
     value: 'en-us',
   },
   {
-    text: 'En',
+    text: '中',
     value: 'zh-cn',
   },
 ];
@@ -68,7 +68,7 @@ class Header extends React.Component {
   switchLang() {
     let language;
     if (this.state.language === 'zh-cn') {
-      language = 'en-us';
+      language = 'zh-cn';
     } else {
       language = 'zh-cn';
     }
