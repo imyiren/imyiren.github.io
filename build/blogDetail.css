@@ -71,10 +71,12 @@
         opacity: 1; }
     .header-container .header-body .language-switch-primary {
       border: 1px solid #FFF;
-      color: #FFF; }
+      color: #FFF;
+      display: none; }
     .header-container .header-body .language-switch-normal {
       border: 1px solid #333;
-      color: #333; }
+      color: #333;
+      display: none; }
     .header-container .header-body .search {
       float: right;
       width: 24px;
