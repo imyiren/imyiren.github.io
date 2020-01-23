@@ -78,6 +78,7 @@
       color: #333;
       display: none; }
     .header-container .header-body .search {
+      display: none;
       float: right;
       width: 24px;
       height: 24px;
