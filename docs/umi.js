@@ -107,7 +107,7 @@
             o.a.createElement(
               i['Link'],
               { to: 'https://beian.miit.gov.cn/' },
-              '\u6d59ICP\u590719039583\u53f7-3',
+              '\u6d59 ICP \u5907 19039583 \u53f7-3',
             ),
           ),
         ),
@@ -28878,7 +28878,7 @@
               exact: !0,
               meta: {
                 filePath: 'mds/index.md',
-                updatedTime: 1637748814e3,
+                updatedTime: 1637748984e3,
                 title: '\u9996\u9875',
                 order: 1,
                 slugs: [
