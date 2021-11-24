@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Yiren',
   favicon: 'https://avatars.githubusercontent.com/u/46130819?v=4',
   logo: 'https://avatars.githubusercontent.com/u/46130819?v=4',
-  outputPath: 'mds-dist',
+  outputPath: 'docs',
   resolve: {
     includes: ['mds'],
   },
