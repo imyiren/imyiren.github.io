@@ -7,4 +7,6 @@ order: 1
 
 ###
 
-<a class="text-color" href="https://beian.miit.gov.cn" target="_blank">浙 ICP 备 19039583 号-3</a>
+---
+
+[浙 ICP 备 19039583 号-3](https://beian.miit.gov.cn)

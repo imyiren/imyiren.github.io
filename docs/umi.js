@@ -100,17 +100,14 @@
               o.a.createElement('span', { className: 'icon icon-link' }),
             ),
           ),
+          o.a.createElement('hr', null),
           o.a.createElement(
             'p',
             null,
             o.a.createElement(
               i['Link'],
-              {
-                to: 'https://beian.miit.gov.cn/',
-                className: 'text-color',
-                target: '_blank',
-              },
-              '\u6d59 ICP \u5907 19039583 \u53f7-3',
+              { to: 'https://beian.miit.gov.cn/' },
+              '\u6d59ICP\u590719039583\u53f7-3',
             ),
           ),
         ),
